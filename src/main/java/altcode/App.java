@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "We make some changes here! notice there's a bug showing one the screen!"
-        		+ "we miss a closing curly brace!!!!!" );
-   
+        System.out.println( "We make some changes here on Fail branch, please note, we miss a closing curly brace here!" );
+     
+    
 }

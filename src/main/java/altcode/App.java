@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "We make some changes here on Fail branch, please note, we miss a closing curly brace here!" );
+        System.out.println( "This is on the Fail branch, let's test another branch build!!Here we have a bug" );
      
     
 }
